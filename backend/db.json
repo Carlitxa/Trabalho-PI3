@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "teste@teste.com",
+      "senha": "teste123",
+      "nomeCompleto": "José Marinho dos Santos",
+      "role": "utilizador"
+    },
+    {
+      "email": "empresa@empresa.com",
+      "senha": "senhaempresa",
+      "nomeCompleto": "Empresa XYZ",
+      "nomeEmpresa": "Empresa XYZ",
+      "endereco": "Rua A, 123",
+      "sobre": "Somos uma empresa de tecnologia.",
+      "role": "empresa"
+    }
+  ]
+}
